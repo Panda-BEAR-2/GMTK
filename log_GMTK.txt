@@ -1,0 +1,3 @@
+log:
+#Cutscene(hand) is misplaced: placed in scene 2 instead of menu/scene 1
+#Try Again Button broken.
